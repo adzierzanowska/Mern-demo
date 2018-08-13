@@ -28,7 +28,7 @@
     "url": "https://github.com/Hashnode/mern-starter/issues"
   },
   "homepage": "https://github.com/Hashnode/mern-starter#readme",
-  "author": "Prashant Abhishek <prashant.abhishek7g@gmail.com>, Mayank Chandola <imayankchd@gmail.com>, Sandeep Panda <sandeep@hashnode.com>, Syed Fazle Rahman <fazle@hashnode.com>, Alkshendra Maurya <alkshendra@hashnode.com>",
+  "author": "Prashant Abhishek <prashant.abhishek7g@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "babel-core": "^6.26.0",
@@ -42,6 +42,7 @@
     "isomorphic-fetch": "^2.2.1",
     "limax": "^1.3.0",
     "mongoose": "^4.4.20",
+    "next-tick": "^1.0.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
@@ -151,5 +152,6 @@
       "text",
       "html"
     ]
-  }
+  },
+  "main": "index.js"
 }
